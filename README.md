@@ -3,7 +3,7 @@
  python = "3.8.0"
 Flask = "1.1.2"
 waitress = "1.4.4"
-pyenv
+poetry
 How to run:
 
 Using pyenv install current version of python:
